@@ -9,7 +9,7 @@ class Program
         int num = 0;
         if (args[0] == "-s")
         {
-            Console.WriteLine("Welcome to Lazy#! Enter your code here.\n");
+            Console.WriteLine("Welcome to # Programming Language! Enter your code here.\n");
             while (true)
             {
                 string s = Console.ReadLine();
