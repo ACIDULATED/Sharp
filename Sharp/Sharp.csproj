@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A2E396F7-345C-4FF2-86A9-E155DF0B1869}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LazySharp</RootNamespace>
-    <AssemblyName>LazySharp</AssemblyName>
+    <RootNamespace>Sharp</RootNamespace>
+    <AssemblyName>Sharp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

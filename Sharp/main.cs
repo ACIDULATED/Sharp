@@ -43,6 +43,10 @@ class Program
                     {
                         Console.WriteLine(strings[Convert.ToInt32(s.Substring(9))]);
                     }
+                    else
+                    {
+                        Console.WriteLine(s.Substring(6));
+                    }
                 }
                 else if (s.StartsWith("text "))
                 {
