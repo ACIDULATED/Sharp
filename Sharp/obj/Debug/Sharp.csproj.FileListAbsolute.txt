@@ -6,3 +6,11 @@ C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.csproj.SuggestedBindingR
 C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.csproj.CoreCompileInputs.cache
 C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.exe
 C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.pdb
+D:\GitHub\Sharp\Sharp\bin\Debug\Sharp.exe.config
+D:\GitHub\Sharp\Sharp\bin\Debug\Sharp.exe
+D:\GitHub\Sharp\Sharp\bin\Debug\Sharp.pdb
+D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.csproj.AssemblyReference.cache
+D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.csproj.CoreCompileInputs.cache
+D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.exe
+D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.pdb

@@ -148,11 +148,11 @@ class Program
                     case "write":
                         if (sections[1].StartsWith("TXT"))
                         {
-                            sw.WriteLine("love.graphics.print(" + strings[Convert.ToInt32(s.Substring(9))] + ", 0, 0, 0, 0, 0, 0, 0)");
+                            sw.WriteLine(@"love.graphics.print(""" + strings[Convert.ToInt32(s.Substring(9))] + @"""" + ", 0, 0, 0, 0, 0, 0, 0)");
                         }
                         else
                         {
-                            sw.WriteLine("love.graphics.print(" + sections[1] + ", 0, 0, 0, 0, 0, 0, 0)");
+                            sw.WriteLine(@"love.graphics.print(""" + sections[1] + @"""" + ", 0, 0, 0, 0, 0, 0, 0)");
                         }
                         break;
                     case "text":
