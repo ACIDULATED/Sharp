@@ -1,0 +1,8 @@
+C:\Users\wille\source\repos\Sharp\Sharp\bin\Debug\Sharp.exe.config
+C:\Users\wille\source\repos\Sharp\Sharp\bin\Debug\Sharp.exe
+C:\Users\wille\source\repos\Sharp\Sharp\bin\Debug\Sharp.pdb
+C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.exe
+C:\Users\wille\source\repos\Sharp\Sharp\obj\Debug\Sharp.pdb

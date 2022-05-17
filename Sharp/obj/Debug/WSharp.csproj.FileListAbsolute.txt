@@ -1,0 +1,8 @@
+C:\Users\wille\source\repos\WSharp\WSharp\obj\Debug\WSharp.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\WSharp\WSharp\obj\Debug\WSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\wille\source\repos\WSharp\WSharp\obj\Debug\WSharp.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WSharp\WSharp\bin\Debug\WSharp.exe.config
+C:\Users\wille\source\repos\WSharp\WSharp\bin\Debug\WSharp.exe
+C:\Users\wille\source\repos\WSharp\WSharp\bin\Debug\WSharp.pdb
+C:\Users\wille\source\repos\WSharp\WSharp\obj\Debug\WSharp.exe
+C:\Users\wille\source\repos\WSharp\WSharp\obj\Debug\WSharp.pdb
