@@ -14,3 +14,11 @@ D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.csproj.SuggestedBindingRedirects.cache
 D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.csproj.CoreCompileInputs.cache
 D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.exe
 D:\GitHub\Sharp\Sharp\obj\Debug\Sharp.pdb
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\bin\Debug\Sharp.exe.config
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\bin\Debug\Sharp.exe
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\bin\Debug\Sharp.pdb
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\obj\Debug\Sharp.csproj.AssemblyReference.cache
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\obj\Debug\Sharp.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\obj\Debug\Sharp.csproj.CoreCompileInputs.cache
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\obj\Debug\Sharp.exe
+D:\Downloads\Sharp-Experimental1\Sharp-Experimental1\Sharp\obj\Debug\Sharp.pdb
